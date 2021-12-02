@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Liang Wang (王良)
 
-You can use the [editor on GitHub](https://github.com/wangliangshanghaitech/wangliangshanghaitech.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Email: wangliang1@shanghaitech.edu.cn
+### About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I received the B.S. degree in Electrical Engineering and Automation from Harbin Engineering University, Harbin, China, in 2019. I am currently working toward the Ph.D. degree in the School of Information Science and Technology, ShanghaiTech University, Shanghai, China. 
+	 
+My research includes renewable energy systems, multi-port converters and energy harvesting systems.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+Ph.D. in Electrical Engineering, ShanghaiTech University, Sept. 2019 - Jun. 2024. Advisor: Prof. Haoyu Wang
 
-# Header 1
-## Header 2
-### Header 3
+上海科技大学，信息学院，电子科学与技术
 
-- Bulleted
-- List
+B.E. in Electrical Engineering and Automation, Harbin Engineering University, Sept. 2015- Jun. 2019
 
-1. Numbered
-2. List
+哈尔滨工程大学，自动化学院，电气工程及其自动化
 
-**Bold** and _Italic_ and `Code` text
+### Publications
 
-[Link](url) and ![Image](src)
-```
+#### Journal Papers
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[J1] L. Wang, H. Wang, B. Xue, and M. Zhou, "H5-bridge based single-input-dual-output LLC converter with wide output voltage range," IEEE Trans. Ind. Electron., in press.
 
-### Jekyll Themes
+[J2] L. Wang, H. Wang, M. Fu, Z. Xie, and J. Liang, "Three-port power electronic interface with decoupled voltage regulation and MPPT in electromagnetic energy harvesting systems," IEEE Trans. Ind. Appl., in press.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangliangshanghaitech/wangliangshanghaitech.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Conference Proceedings
 
-### Support or Contact
+[C1] L. Wang, M. Fu, and H. Wang*, "A three-port power electronic interface to harvest the maximum power in electromagnetic energy harvesting systems," in Proc. Int. Power Electron. Motion Control (IPEMC-ECCE Asia), Nanjing, China, May 2020, pp. 1475-1481.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[C2] L. Wang, H. Wang*, Y. Liu, J. Liang, and M. Fu, "A fully ZVS dual-active-bridge based three-port converter with high integration," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Phoenix, AZ, Jun. 2021, pp. 1410-1415.
+
+
+
+
+
+
