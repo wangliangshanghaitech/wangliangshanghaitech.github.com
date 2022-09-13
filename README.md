@@ -27,11 +27,14 @@ B.E. in Electrical Engineering and Automation, Harbin Engineering University, Se
 [[J2]](https://ieeexplore.ieee.org/document/9645314) L. Wang, H. Wang, M. Fu, Z. Xie, and J. Liang, "Three-port power electronic interface with decoupled voltage regulation and MPPT in electromagnetic energy harvesting systems," IEEE Trans. Ind. Appl., vol. 58, no. 2, pp. 2144-2154, Mar./Apr. 2022. 
 
 [[J3]](https://ieeexplore.ieee.org/document/9870571) L. Wang, H. Wang*, M. Fu, J. Liang and Y. Liu, "A three-port energy router for grid-tied PV generation systems with optimized control methods," IEEE Trans. Power Electron., in press.
+
+[J4] J. Liang, L. Wang, M. Fu, J. Liang and H. Wang*, "Overview of Voltage Regulator Modules in 48V Bus-based Data Center Power Systems," CPSS Trans. Power Electron. Appl., in press.
+
 #### Conference Proceedings
 
-[C1] L. Wang, M. Fu, and H. Wang*, "A three-port power electronic interface to harvest the maximum power in electromagnetic energy harvesting systems," in Proc. Int. Power Electron. Motion Control (IPEMC-ECCE Asia), Nanjing, China, May 2020, pp. 1475-1481.
+[[C1]](https://ieeexplore.ieee.org/abstract/document/9367711) L. Wang, M. Fu, and H. Wang*, "A three-port power electronic interface to harvest the maximum power in electromagnetic energy harvesting systems," in Proc. Int. Power Electron. Motion Control (IPEMC-ECCE Asia), Nanjing, China, May 2020, pp. 1475-1481.
 
-[C2] L. Wang, H. Wang*, Y. Liu, J. Liang, and M. Fu, "A fully ZVS dual-active-bridge based three-port converter with high integration," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Phoenix, AZ, Jun. 2021, pp. 1410-1415.
+[[C2]](https://ieeexplore.ieee.org/document/9487170) L. Wang, H. Wang*, Y. Liu, J. Liang, and M. Fu, "A fully ZVS dual-active-bridge based three-port converter with high integration," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Phoenix, AZ, Jun. 2021, pp. 1410-1415.
 
 
 
