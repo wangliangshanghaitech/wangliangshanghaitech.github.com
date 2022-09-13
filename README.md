@@ -24,7 +24,7 @@ B.E. in Electrical Engineering and Automation, Harbin Engineering University, Se
 
 [J1] L. Wang, H. Wang, B. Xue, and M. Zhou, "H5-bridge based single-input-dual-output LLC converter with wide output voltage range," IEEE Trans. Ind. Electron., in press.
 
-[J2] L. Wang, H. Wang, M. Fu, Z. Xie, and J. Liang, "Three-port power electronic interface with decoupled voltage regulation and MPPT in electromagnetic energy harvesting systems," IEEE Trans. Ind. Appl., in press.
+[J2] (https://ieeexplore.ieee.org/document/9492828?source=authoralert)L. Wang, H. Wang, M. Fu, Z. Xie, and J. Liang, "Three-port power electronic interface with decoupled voltage regulation and MPPT in electromagnetic energy harvesting systems," IEEE Trans. Ind. Appl., in press.
 
 [J3] L. Wang, H. Wang, M. Fu, Z. Xie, and J. Liang, "Three-port power electronic interface with decoupled voltage regulation and MPPT in electromagnetic energy harvesting systems," IEEE Trans. Ind. Appl., in press.
 #### Conference Proceedings
