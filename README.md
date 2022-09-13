@@ -51,7 +51,7 @@ Young Professionals, IEEE, 07/2019 – present
 
 Member, IEEE Industry Applications Society, 07/2019 – present
 
-#### Peer Reviewer
+#### Peer Reviewing Activities
 
 IEEE Energy Conversion Congress and Exposition (ECCE), 2020
 
