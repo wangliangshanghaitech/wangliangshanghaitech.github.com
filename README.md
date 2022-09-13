@@ -12,11 +12,8 @@ My research includes renewable energy systems, multi-port converters and energy 
 
 Ph.D. in Electrical Engineering, ShanghaiTech University, Sept. 2019 - Jun. 2024. Advisor: Prof. Haoyu Wang
 
-上海科技大学，信息学院，电子科学与技术
-
 B.E. in Electrical Engineering and Automation, Harbin Engineering University, Sept. 2015- Jun. 2019
 
-哈尔滨工程大学，自动化学院，电气工程及其自动化
 
 ### Publications
 
@@ -35,6 +32,47 @@ B.E. in Electrical Engineering and Automation, Harbin Engineering University, Se
 [[C1]](https://ieeexplore.ieee.org/abstract/document/9367711) L. Wang, M. Fu, and H. Wang*, "A three-port power electronic interface to harvest the maximum power in electromagnetic energy harvesting systems," in Proc. Int. Power Electron. Motion Control (IPEMC-ECCE Asia), Nanjing, China, May 2020, pp. 1475-1481.
 
 [[C2]](https://ieeexplore.ieee.org/document/9487170) L. Wang, H. Wang*, Y. Liu, J. Liang, and M. Fu, "A fully ZVS dual-active-bridge based three-port converter with high integration," in Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC), Phoenix, AZ, Jun. 2021, pp. 1410-1415.
+
+### Teaching Experience
+
+Social Practice for Undergraduate Students , 2022 Summer
+
+Introduction to Information Technology , 2021 Spring (Best TA Prize)
+
+Postgraduate Admission Examination , 2019 Fall
+
+### Professional Services
+
+#### Membership
+
+Student Member, IEEE, 07/2019 – present
+
+Young Professionals, IEEE, 07/2019 – present
+
+Member, IEEE Industry Applications Society, 07/2019 – present
+
+#### Peer Reviewer
+
+IEEE Energy Conversion Congress and Exposition (ECCE), 2020
+
+The Applied Power Electronics Conference (APEC)	2020, 2021,2022
+
+IEEE Transactions on Power Electronics (TPEL), 2019 – present
+
+IEEE Transactions on Industry Applications (TIA), 2019 – present
+
+IEEE Transactions on Transportation Electrification (TTE), 2019 – present
+
+                                                                                                                                                   
+
+
+
+
+
+
+
+
+
 
 
 
