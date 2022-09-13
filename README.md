@@ -22,11 +22,11 @@ B.E. in Electrical Engineering and Automation, Harbin Engineering University, Se
 
 #### Journal Papers
 
-[J1] L. Wang, H. Wang, B. Xue, and M. Zhou, "H5-bridge based single-input-dual-output LLC converter with wide output voltage range," IEEE Trans. Ind. Electron., in press.
+[[J1]](https://ieeexplore.ieee.org/document/9492828?source=authoralert) L. Wang, H. Wang, B. Xue, and M. Zhou, "H5-bridge based single-input-dual-output LLC converter with wide output voltage range," IEEE Trans. Ind. Electron., in press.
 
-[[J2]](https://ieeexplore.ieee.org/document/9492828?source=authoralert)L. Wang, H. Wang, M. Fu, Z. Xie, and J. Liang, "Three-port power electronic interface with decoupled voltage regulation and MPPT in electromagnetic energy harvesting systems," IEEE Trans. Ind. Appl., in press.
+[J2](https://ieeexplore.ieee.org/document/9645314) L. Wang, H. Wang, M. Fu, Z. Xie, and J. Liang, "Three-port power electronic interface with decoupled voltage regulation and MPPT in electromagnetic energy harvesting systems," IEEE Trans. Ind. Appl., in press.
 
-[J3] L. Wang, H. Wang, M. Fu, Z. Xie, and J. Liang, "Three-port power electronic interface with decoupled voltage regulation and MPPT in electromagnetic energy harvesting systems," IEEE Trans. Ind. Appl., in press.
+[J3] L. Wang, H. Wang*, M. Fu, J. Liang and Y. Liu, "A three-port energy router for grid-tied PV generation systems with optimized control methods," IEEE Trans. Power Electron., in press.
 #### Conference Proceedings
 
 [C1] L. Wang, M. Fu, and H. Wang*, "A three-port power electronic interface to harvest the maximum power in electromagnetic energy harvesting systems," in Proc. Int. Power Electron. Motion Control (IPEMC-ECCE Asia), Nanjing, China, May 2020, pp. 1475-1481.
