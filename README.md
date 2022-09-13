@@ -14,12 +14,23 @@ Ph.D. in Electrical Engineering, ShanghaiTech University, Sept. 2019 - Jun. 2024
 
 B.E. in Electrical Engineering and Automation, Harbin Engineering University, Sept. 2015- Jun. 2019
 
+### Awards
+2021 Outstanding Student of ShanghaiTech University
+
+Best TA of SIST
+
+### Research Interests
+PoL converters
+Power supply for data center
+renewable energy systems
+multi-port converters
+energy harvesting systems
 
 ### Publications
 
 #### Journal Papers
 
-##### [[J1]](https://ieeexplore.ieee.org/document/9492828?source=authoralert) L. Wang, H. Wang, B. Xue, and M. Zhou, "H5-bridge based single-input-dual-output LLC converter with wide output voltage range," IEEE Trans. Ind. Electron., in press.
+ [[J1]](https://ieeexplore.ieee.org/document/9492828?source=authoralert) L. Wang, H. Wang, B. Xue, and M. Zhou, "H5-bridge based single-input-dual-output LLC converter with wide output voltage range," IEEE Trans. Ind. Electron., in press.
 
 [[J2]](https://ieeexplore.ieee.org/document/9645314) L. Wang, H. Wang, M. Fu, Z. Xie, and J. Liang, "Three-port power electronic interface with decoupled voltage regulation and MPPT in electromagnetic energy harvesting systems," IEEE Trans. Ind. Appl., vol. 58, no. 2, pp. 2144-2154, Mar./Apr. 2022. 
 
